@@ -1,0 +1,12 @@
+.content-wrapper__section_subheading,
+.content-wrapper__section_answer {
+  display: flex;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.content-wrapper__section_subheading {
+  color: #95a5a6;
+}
